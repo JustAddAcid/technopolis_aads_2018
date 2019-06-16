@@ -1,3 +1,5 @@
+# В камках курса "АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ -- Технополис Mail.ru"
+
 - [x] 1 ArrayDequeSimple
 - [x] 2 ArrayDequeSimple + Iterator Remove
 - [x] 3 ArrayDequeFull
